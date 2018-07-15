@@ -1,3 +1,12 @@
-## Supported targets
+* # Choco_mbit
 
-* for PXT/microbit
+   Mbit Package Extension for ChocoRobot.
+
+  ## License
+
+  MIT
+
+  ## Supported targets
+
+  - for PXT/microbit
+
