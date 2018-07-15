@@ -1,12 +1,12 @@
-* # Choco_mbit
+# mbit
 
-   Mbit Package Extension for ChocoRobot.
+Extension for Yahboom mbit
 
-  ## License
+## License
 
-  MIT
+MIT
 
-  ## Supported targets
+## Supported targets
 
-  - for PXT/microbit
-
+* for PXT/microbit
+(The metadata above is needed for package search.)
