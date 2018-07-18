@@ -9,6 +9,6 @@
         "main.blocks",
         "main.ts",
         "README.md",
-        "my.ts"
+        "custom.ts"
     ]
 }
