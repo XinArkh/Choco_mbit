@@ -9,6 +9,6 @@
         "main.blocks",
         "main.ts",
         "README.md",
-        "custom.ts"
+        "choco.ts"
     ]
 }
