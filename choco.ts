@@ -11,16 +11,16 @@ namespace Choco {
 
     export enum enPos {
 
-        //% blockId="LeftState" block="×ó±ß×´Ì¬"
+        //% blockId="LeftState" block="LeftState"
         LeftState = 0,
-        //% blockId="RightState" block="ÓÒ±ß×´Ì¬"
+        //% blockId="RightState" block="RightState"
         RightState = 1
     }
 
     export enum enLineState {
-        //% blockId="White" block="°×Ïß"
+        //% blockId="White" block="White"
         White = 0,
-        //% blockId="Black" block="ºÚÏß"
+        //% blockId="Black" block="Black"
         Black = 1
 
     }
